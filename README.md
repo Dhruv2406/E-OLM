@@ -1,6 +1,6 @@
 # OLM
 
-OLM, a web app made made using Django framework, is an E-library management system created as an at ease management of operations of small scaled libraries.
+OLM, a web app made in Django, is an E-library management system created as an at ease management of operations of small scaled libraries.
 
 # Problem Statement
 
@@ -53,3 +53,8 @@ OLM is an application which refers to library systems which are generally small 
 - Online lectures video tutorials can be added by teachers
 - Online assignments submission facility
 - Group chat, where students can discuss various issues of engineering, making it more interactive and user friendly
+
+# References
+
+- <a href= "https://medium.com/" target="_blank">Medium</a>
+- <a href= "https://stackoverflow.com/" target="_blank">Stack Overflow</a>
