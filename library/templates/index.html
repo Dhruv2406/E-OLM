@@ -1,0 +1,29 @@
+{% extends 'basic.html' %}
+{% load static %}
+{% block title %} Library Management System {% endblock %}
+{% block css %}
+{% endblock %}
+{% block body %}
+<div class="p-4 bg-light">
+    <div class="container-fluid py-3">
+      <h1 class="display-5 fw-bold">Welcome to Dhruv's E-Library Management System</h1>
+      <p class="col-md-8 fs-4">You can register as student. You will be able to issue any book through the admin. After that you need to return the book within 21 days or else a fine of Rs 100 will be charged per day till the book is returned.</p>
+      <a href="/student_registration/" class="btn btn-primary btn-lg">Register as Student</a>
+    </div>
+    <br>
+    <div class="container">
+  <div class="row">
+
+    <div class="col-lg-6">
+      <img src="{% static 'admin.png' %}" width="50%" height="50%" alt=""><br><br>
+        <a class="btn btn-outline-primary btn-lg" style="text-align:center" href="/admin_login/">Admin</a>
+    </div>
+
+    <div class="col-lg-6">
+      <img src="{% static 'students.png' %}" width="50%" height="50%" alt=""><br><br>
+      <a class="btn btn-outline-primary btn-lg" href="/student_login/">Student</a>
+    </div>
+  </div>
+  </div>
+</div>
+{% endblock %}
