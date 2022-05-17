@@ -1,6 +1,6 @@
 # E-OLM
 
-OLM, a web app made in Django, is an E-library management system created as an at ease management of operations of small scaled libraries.
+OLM, a web app made with Django framework, is an E-library management system created as an at ease management of operations of small scaled libraries.
 
 # Problem Statement
 
