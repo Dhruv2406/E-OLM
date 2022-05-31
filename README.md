@@ -48,7 +48,7 @@ OLM is an application which refers to library systems which are generally small 
 
 # Demonstration Video
 
-<a href="https://drive.google.com/file/d/1sB5KYp6rSMqxh1aETg71Mj_yqNAcYBEC/view?usp=sharing"><img src="https://mintbook.com/assetsNew/img/animated5.gif" height="200"></a>
+- <a href="https://drive.google.com/file/d/1sB5KYp6rSMqxh1aETg71Mj_yqNAcYBEC/view?usp=sharing">Project's Preview</a>
 
 # Future Scope
 
