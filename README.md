@@ -1,8 +1,6 @@
-<p align="center">
-    <img src="https://github.com/Dhruv2406/E-OLM/blob/main/library/media/e-olm.png" alt="Verbyl-Logo" height="150">
-  <h3 align="center"><b>E-Online Library Management System</b></h3>
+# OLM
 
-Here's E-OLM, a web app made with Django framework, is an E-library management system created as an at ease management of operations of small scaled libraries.
+OLM, a web app made in Django, is an E-library management system created as an at ease management of operations of small scaled libraries.
 
 # Problem Statement
 
@@ -48,7 +46,7 @@ OLM is an application which refers to library systems which are generally small 
 
 # Demonstration Video
 
-[![Watch the video](https://c.tenor.com/EyIrC3CeKYgAAAAM/when-in-doubt-go-to-the-library-library.gif)](https://drive.google.com/file/d/1sB5KYp6rSMqxh1aETg71Mj_yqNAcYBEC/view?usp=sharing)
+- <a href= "https://drive.google.com/file/d/1sB5KYp6rSMqxh1aETg71Mj_yqNAcYBEC/view?usp=sharing" target="_blank">Demonstration Video</a>
 
 # Future Scope
 
