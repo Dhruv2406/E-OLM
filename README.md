@@ -1,6 +1,8 @@
-# OLM
+<p align="center">
+    <img src="https://github.com/Dhruv2406/E-OLM/blob/main/library/media/e-olm.png" alt="Verbyl-Logo" height="170">
+  <h3 align="center"><b>E-Online Library Management System</b></h3>
 
-OLM, a web app made in Django, is an E-library management system created as an at ease management of operations of small scaled libraries.
+E-OLM, a web app made in Django, is an E-library management system created as an at ease management of operations of small scaled libraries.
 
 # Problem Statement
 
@@ -46,7 +48,7 @@ OLM is an application which refers to library systems which are generally small 
 
 # Demonstration Video
 
-- <a href= "https://drive.google.com/file/d/1sB5KYp6rSMqxh1aETg71Mj_yqNAcYBEC/view?usp=sharing" target="_blank">Demonstration Video</a>
+<a href="https://drive.google.com/file/d/1sB5KYp6rSMqxh1aETg71Mj_yqNAcYBEC/view?usp=sharing"><img src="https://mintbook.com/assetsNew/img/animated5.gif" height="200"></a>
 
 # Future Scope
 
@@ -58,3 +60,16 @@ OLM is an application which refers to library systems which are generally small 
 
 - <a href= "https://medium.com/" target="_blank">Medium</a>
 - <a href= "https://stackoverflow.com/" target="_blank">Stack Overflow</a>
+
+# How To Run The Project?
+
+To run this project, you must have installed <a href= "https://www.python.org/" target="_blank">Python</a> on your PC. After downloading the project, follow the steps below:
+
+Step-1: Extract/unzip the file
+
+Step-2: Go inside the project folder, open cmd and type the following commands to install Django Framework and run the webserver:
+
+        pip install -r requirements.txt
+        python manage.py runserver
+
+Step-3: Finally, open the browser and go to localhost:8000
